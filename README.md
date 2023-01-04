@@ -11,4 +11,4 @@ differently?
 the datasets are appropriate and will enable you to answer the business questions. The data has been made available by
 Motivate International Inc. under this license: https://ride.divvybikes.com/data-license-agreement)
 
-This Case Study is being done as part of the Google Data Analytics Certification. 
+This Case Study has been done as part of the Google Data Analytics Certification. 
